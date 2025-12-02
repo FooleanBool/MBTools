@@ -1,2 +1,2 @@
 # MBCalc
-Various Matched Betting Calculators and Utilities.
+Various Matched Betting Utilities.
