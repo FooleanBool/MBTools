@@ -1,0 +1,21 @@
+{
+  "name": "x2/x3 Lock-in Calc",
+  "short_name": "Lock-in Calc",
+  "description": "A progressive web app for calculating betting handicaps and lock-in strategies",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "icon-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
