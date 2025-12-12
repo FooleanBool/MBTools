@@ -59,6 +59,12 @@ p {
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
+.handicap-subsection {
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #ecf0f1;
+}
+
 .input-group, .output-group {
     margin-bottom: 20px;
 }
